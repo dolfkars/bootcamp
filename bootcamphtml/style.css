@@ -1,0 +1,53 @@
+body {
+  color:red;
+  text-align:left;
+  background: yellow;
+}
+.lijst1 {
+  text-align:left;
+  color: green;
+  background-color: white;
+  height:auto;
+}
+.start {
+  color: blue;
+}
+.zwart{
+  background: black;
+  width: auto;
+  text-align: center;
+  margin: 20px;
+}
+.blok1{
+  background-color: purple;
+}
+.blok2{
+  background-color: brown;
+  text-align: left;
+}
+div:hover
+{color:black;
+backbround:white;}
+.ernaast{
+  text-align:right;
+}
+.footer{
+  text-align:center;
+}
+  div{
+  padding: 30px;
+  margin: 20px;
+  text-align: center;
+}
+img{
+  display:block;
+  padding: auto;
+  margin: auto;
+}
+.roze{
+  background: pink;
+  padding: : 50%;
+  width: 100%;
+  text-align: center;
+  margin: 20px;
+}
